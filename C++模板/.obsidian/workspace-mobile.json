@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "bd8ffc61f560124e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d08211a1af817b78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd57714155deb06d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "进阶/折叠表达式.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1bb303815ca0524",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7cb38dc0f7e2ecd9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "197d85623719cf7a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3ecd3f8e67e4b962",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "96d7ec298c624b46",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5ff73300a31b880d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4b4c02dd87d00486",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "进阶/折叠表达式.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dbca26396cf1b035",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "进阶/折叠表达式.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "23255a022e91004d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "进阶/折叠表达式.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cd57714155deb06d",
+  "lastOpenFiles": [
+    "进阶/auto自动推导非类型模板参数.md",
+    "附加/constexpr.md",
+    "进阶/折叠表达式.md",
+    "基础模板.md",
+    "进阶/形参包.md",
+    "特化模板.md",
+    "进阶/template嵌套.md",
+    "进阶/万能引用.md",
+    "附加/decltype.md",
+    "进阶/显式禁用函数.md",
+    "附加/static_assert.md",
+    "线的种类.md",
+    "进阶/推导指引.md",
+    "index.md",
+    "b.md",
+    "untitled.md",
+    "storage/emulated/0/附加/constexpr.md",
+    "storage/emulated/0",
+    "storage/emulated",
+    "storage",
+    "storage/emulated/0/附加",
+    "未命名.md",
+    "未命名",
+    "进阶/b.md",
+    "基础模板 1.md"
+  ]
+}
